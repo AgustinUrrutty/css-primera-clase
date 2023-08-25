@@ -1,0 +1,28 @@
+p{
+    color: red !important ;
+    font-size: 30px;
+    background-color: aliceblue !important;
+}
+
+#textoColor {
+    background-color: green !important;
+    color: black !important;
+}
+
+.textoColor2{
+    background-color: blue;
+    color: yellow;
+}
+
+#verde, #div2, #div3, #div4 {
+    width: 80%;
+    height: 100px;
+}
+
+#verde {
+    background-color: blue;
+}
+
+#div2 {
+    background-color: red;
+}
